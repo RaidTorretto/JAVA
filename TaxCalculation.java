@@ -4,7 +4,7 @@ public class TaxCalculation {
 	// non-static or instance variables
 	private int customerId = 123456;
 	private String name = "Adam";
-	private double salary = 98432;
+	private double salary = 110000;
 
 	// <Access modifier> <return type> method_name(arg1, arg2,..){}
 
