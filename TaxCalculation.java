@@ -14,7 +14,7 @@ public class TaxCalculation {
 	}
 
 	public double taxPayable() {
-		double tax = (salary * 10) / 100;
+		double tax = (salary * 30) / 100;
 		return tax;
 
 	}
